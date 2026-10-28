@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="330" viewBox="0 0 1040 330" role="img" aria-labelledby="title desc">
+  <title id="title">기록부터 백업까지의 개편 범위</title>
+  <desc id="desc">수입과 비용 입력, 영수증 연결, 월별 확인, 파일 보관으로 이어지는 일반적인 기록 앱의 흐름. 실제 앱 화면이 아닌 설명용 도식입니다.</desc>
+  <rect width="1040" height="330" rx="24" fill="#13243b"/>
+  <g font-family="sans-serif">
+    <text x="40" y="54" fill="#ffffff" font-size="26" font-weight="700">기록을 맡길 수 있도록, 흐름 전체를 다시 점검</text>
+    <text x="40" y="88" fill="#b9cce4" font-size="17">입력의 정확성 · 눈에 보이는 구분 · 자료를 되돌리는 과정</text>
+    <g fill="#f3f7fd" stroke="#8ba5c8" stroke-width="2">
+      <rect x="40" y="131" width="214" height="126" rx="16"/>
+      <rect x="288" y="131" width="214" height="126" rx="16"/>
+      <rect x="536" y="131" width="214" height="126" rx="16"/>
+      <rect x="784" y="131" width="214" height="126" rx="16"/>
+    </g>
+    <g fill="#17304e" font-size="23" font-weight="700" text-anchor="middle">
+      <text x="147" y="181">거래 입력</text><text x="395" y="181">증빙 연결</text>
+      <text x="643" y="181">월별 확인</text><text x="891" y="181">파일 보관</text>
+    </g>
+    <g fill="#526b88" font-size="16" text-anchor="middle">
+      <text x="147" y="218">수입·비용을 분명하게</text><text x="395" y="218">사진과 기록을 함께</text>
+      <text x="643" y="218">같은 기준으로 집계</text><text x="891" y="218">검사 후 백업·복원</text>
+    </g>
+    <g fill="#85d2bf" font-size="25" text-anchor="middle"><text x="271" y="203">→</text><text x="519" y="203">→</text><text x="767" y="203">→</text></g>
+    <text x="40" y="298" fill="#9ab1cf" font-size="14">설명용 도식 · 실제 앱 화면과 운영 식별정보를 포함하지 않습니다.</text>
+  </g>
+</svg>
